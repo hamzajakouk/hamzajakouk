@@ -1,6 +1,6 @@
 ## Hi I'm Hamza <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-🚀 Check out my New Portfolio [coming soon](https://islemmaboud.com)
+🚀 Check out my New Portfolio [coming soon](https://isleaboud.com)
 
 👋 Hi, I'm Hamza Jakouk, a Machine Learning engineer and coding enthusiast. I love exploring the exciting world of AI and creating innovative projects. 💡 Solving complex problems and leveraging algorithms is my passion. When I'm not coding, you'll find me buried in books on artificial intelligence, staying up-to-date with the latest advancements. 📚 Join me on this thrilling journey as we push the boundaries of technology and shape the future through the power of machine learning. ✨
 
@@ -25,7 +25,7 @@
     </ul>
   </div>
 </div>
-<br>
+<br /> <!-- Add an empty line here -->
 #### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
