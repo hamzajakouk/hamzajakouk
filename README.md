@@ -15,6 +15,7 @@
   <div>
     <h3>What I currently Do</h3>
     <ul>
+      <br>
       <li>🔭 I’m currently a student at the National School of Applied Science.</li>
       <li>:computer: Most used line of code <code>git commit -m "Initial Commit"</code>.</li>
       <li>🤔 I’m looking for help with Outstanding Video ideas.</li>
