@@ -8,10 +8,6 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@Jakouk-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/HJakouk)](https://twitter.com/HJakouk) [![Linkedin Badge](https://img.shields.io/badge/-Hamza-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-jakouk-5b4304202/) [![Mail Badge](https://img.shields.io/badge/-@hamzajakouk-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/hamzajakouk5/) [![Mail Badge](https://img.shields.io/badge/-hamzajakouk-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:hamzajakouk5@gmail.com)
 
-### CoderOne Newsletter
-Join the bi-weekly Newsletter among thousands of other developers and stay in the loop with Web Development, React, Security, Software Engineering, Jobs, AI, Professional Courses and a lot more. 
-
-👉 [Join Here](https://islemmaboud.com/join-newsletter)
 
 
 <!-- TODO: Add last video link -->
