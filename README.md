@@ -13,7 +13,7 @@
 <!-- TODO: Add last video link -->
 
 ### What I currently Do
-
+‹img aligns"right" alt="Coding" width="400" srcs"https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
 - 🔭 I’m currently a student at national school of applied science
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding Video ideas.
