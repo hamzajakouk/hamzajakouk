@@ -20,7 +20,7 @@
       <li>:computer: Most used line of code <code>git commit -m "Initial Commit"</code>.</li>
       <li>🤔 I’m looking for help with Outstanding Video ideas.</li>
       <li>📫 How to reach me: hamzajakouk5@gmail.com.</li>
-      <li>😄 Pronouns: CoderOne, hamza, jakouk.</li>
+      <li>😄 Pronouns: R41, hamza, jakouk.</li>
       <li>⚡ Fun fact: I play games and go to the gym very often.</li>
     </ul>
   </div>
