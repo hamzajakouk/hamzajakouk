@@ -10,17 +10,19 @@
 
 <!-- TODO: Add last video link -->
 
-### What I currently Do
 <div style="display: flex; align-items: center;">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="200" height="200" alt="Programmer GIF">
-  <ul>
-    <li>🔭 I’m currently a student at the National School of Applied Science.</li>
-    <li>:computer: Most used line of code <code>git commit -m "Initial Commit"</code>.</li>
-    <li>🤔 I’m looking for help with Outstanding Video ideas.</li>
-    <li>📫 How to reach me: hamzajakouk5@gmail.com.</li>
-    <li>😄 Pronouns: CoderOne, hamza, jakouk.</li>
-    <li>⚡ Fun fact: I play games and go to the gym very often.</li>
-  </ul>
+  <div>
+    <h3>What I currently Do</h3>
+    <ul>
+      <li>🔭 I’m currently a student at the National School of Applied Science.</li>
+      <li>:computer: Most used line of code <code>git commit -m "Initial Commit"</code>.</li>
+      <li>🤔 I’m looking for help with Outstanding Video ideas.</li>
+      <li>📫 How to reach me: hamzajakouk5@gmail.com.</li>
+      <li>😄 Pronouns: CoderOne, hamza, jakouk.</li>
+      <li>⚡ Fun fact: I play games and go to the gym very often.</li>
+    </ul>
+  </div>
 </div>
 
 #### Top Technologies
