@@ -11,7 +11,7 @@
 <!-- TODO: Add last video link -->
 
 <div style="display: flex; align-items: center;">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="200" height="200" alt="Programmer GIF">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400" align="right" />
   <div>
     <h3>What I currently Do</h3>
     <ul>
