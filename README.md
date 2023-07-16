@@ -10,9 +10,15 @@
 
 <!-- TODO: Add last video link -->
 
+<div align="right">
+
 ### What I recently Do
 
 ![GIF Image](https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif)
+
+</div>
+
+<div align="left">
 
 - 🔭 I’m currently a student at the National School of Applied Science.
 - :computer: Most used line of code `git commit -m "Initial Commit"`.
@@ -20,6 +26,8 @@
 - 📫 How to reach me: hamzajakouk5@gmail.com.
 - 😄 Pronouns: CoderOne, hamza, jakouk.
 - ⚡ Fun fact: I play games and go to the gym very often.
+
+</div>
 
 #### Top Technologies
 
