@@ -25,7 +25,7 @@
     </ul>
   </div>
 </div>
-
+<br>
 #### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
