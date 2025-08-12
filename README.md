@@ -36,7 +36,7 @@
 [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#) [![TensorFlow Badge](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&labelColor=black&logo=tensorflow&logoColor=FF6F00)](#) [![Keras Badge](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&labelColor=black&logo=keras&logoColor=D00000)](#) [![Hugging Face Badge](https://img.shields.io/badge/-Hugging%20Face-0B5FFF?style=for-the-badge&labelColor=black&logo=hugging%20face&logoColor=0B5FFF)](#) [![PyTorch Badge](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&labelColor=black&logo=pytorch&logoColor=EE4C2C)](#) [![Streamlit Badge](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&labelColor=black&logo=streamlit&logoColor=FF4B4B)](#)
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://github.com/hamzajakouk/divers/blob/main/cv_fr (2).pdf)
+- :paperclip: [My Resume/CV](https://github.com/hamzajakouk/divers/blob/main/hamza.pdf)
 - :email: hamzajakouk5@gmail.com
 
 <details>
